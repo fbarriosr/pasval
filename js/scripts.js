@@ -14,7 +14,7 @@
         'slidesNavPosition': 'bottom',
         'easingcss3': 'ease',
         'navigation': true,
-        'anchors': ['Home', 'Servicios', 'Destacados', 'Catalogos', 'Proveedores', 'Clientes'],
+        'anchors': ['Home', 'Nosotros','Servicios', 'Destacados', 'Catalogos', 'Proveedores', 'Clientes'],
         'navigationPosition': 'left'
     });
     $('.screenshots-content, .clients-content').css('height', $(window).height());
